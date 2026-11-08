@@ -1,0 +1,10 @@
+C:\Users\kknaa\Documents\Github\recycle-tray-rust\target\release\deps\toml_datetime-05dd107c51755cd7.d: C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\lib.rs C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\datetime.rs C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\de.rs C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\ser.rs
+
+C:\Users\kknaa\Documents\Github\recycle-tray-rust\target\release\deps\libtoml_datetime-05dd107c51755cd7.rlib: C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\lib.rs C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\datetime.rs C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\de.rs C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\ser.rs
+
+C:\Users\kknaa\Documents\Github\recycle-tray-rust\target\release\deps\libtoml_datetime-05dd107c51755cd7.rmeta: C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\lib.rs C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\datetime.rs C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\de.rs C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\ser.rs
+
+C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\lib.rs:
+C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\datetime.rs:
+C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\de.rs:
+C:\Users\kknaa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_datetime-1.1.3+spec-1.1.0\src\ser.rs:
